@@ -14,6 +14,7 @@ function formatUser(user: User): string {
     return result;
 }
 
+// テスト
 const user1: User = { name: "田中太郎", age: 20 };
 const user2: User = { name: "佐藤花子", age: 30, email: "hanako@example.com" };
 
