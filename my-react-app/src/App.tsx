@@ -1,7 +1,7 @@
-import TodoApp from "./components/TodoApp";
+import UserInfo from "./components/UserInfo";
 
 function App() {
-    return <TodoApp />;
+    return <UserInfo />;
 }
 
 export default App;
